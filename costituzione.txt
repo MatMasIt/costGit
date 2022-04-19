@@ -852,7 +852,7 @@ Il numero dei deputati è di seicentotrenta.
 
 Sono  eleggibili a deputati tutti gli elettori che nel giorno delle elezioni hanno compiuto i venticinque anni di età.
 
-La  ripartizione  dei  seggi  tra  le  circoscrizioni  si  effettua dividendo  il  numero  degli abitanti della Repubblica, quale risulta dall'ultimo censimento generale della popolazione, per seicentotrenta e  distribuendo  i  seggi  in  proporzione  alla  popolazione di ogni circoscrizione,  sulla  base  dei  quozienti  interi  e dei piu' alti resti.
+La  ripartizione  dei  seggi  tra  le  circoscrizioni  si  effettua dividendo  il  numero  degli abitanti della Repubblica, quale risulta dall'ultimo censimento generale della popolazione, per seicentotrenta e  distribuendo  i  seggi  in  proporzione  alla  popolazione di ogni circoscrizione,  sulla  base  dei  quozienti  interi  e dei più alti resti.
 
 
 
@@ -866,9 +866,9 @@ Il Senato della Repubblica è eletto a base regionale.
 
 Il numero dei senatori elettivi è di trecentoquindici.
 
-Nessuna Regione può avere un numero di senatori inferiore a sette. La Valle d'Aosta ha un solo senatore.
+Nessuna Regione può avere un numero di senatori inferiore a sette; il Molise ne ha due, la Valle d'Aosta uno.
 
-La ripartizione dei seggi tra le Regioni, previa applicazione delle disposizioni del precedente comma, si effettua in proporzione alla popolazione delle Regioni, quale risulta dall'ultimo censimento generale, sulla base dei quozienti interi e dei più alti resti
+La ripartizione dei seggi tra le Regioni, previa applicazione delle disposizioni  del  precedente  comma, si effettua in proporzione alla popolazione  delle  Regioni  quale  risulta  dall'ultimo  censimento generale, sulla base dei quozienti interi e dei più alti resti.
 
 
 
@@ -1956,7 +1956,9 @@ Marche;
 
 Lazio;
 
-Abruzzi e Molise;
+Abruzzi;
+
+Molise;
 
 Campania;
 
